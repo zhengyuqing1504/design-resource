@@ -5,7 +5,9 @@ A list of tools & resources for designers.
 ----
 
 *最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。
+
 于是创建了这个 Resource List 项目，旨在让更多的设计师找资源变得有章可循。
+
 先更新一部分，大概还有200多个还没放过来。。（吐血）
 所以，欢迎大家也推荐自己收藏的资源，加入这个项目并一起持续更新么么哒：）*
 
@@ -26,9 +28,14 @@ Most of the time you don't need to draw your own icons, or take your own photos.
   Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
 
+## 插件及资源
++ [CodePen](https://codepen.io/) 是一个完全免费的前端代码托管服务。与 GitHub Pages 相比，它最重要的优势有：即时预览。你甚至可以本地修改并即时预览别人的作品。
+
++ [踏得网](http://techbrood.com/)领先的H5、WebGL和WebVR作品分享平台，以虚拟魔力升华真实体验。 
+
 
 ## Icons
-
++ https://icomoon.io/app/#/select
 + http://www.pixellove.com/free-ios-and-android-icons
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
